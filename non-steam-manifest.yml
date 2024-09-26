@@ -1,10 +1,7 @@
 ---
 "Non-Steam":
   files:
-    # "<root>/**/pfx/drive_c/users/Public/Documents":
-    #   tags:
-    #     - save
-    "<root>/steamapps/compatdata/**/pfx/drive_c/users/Public/Documents":
+    "<root>/**/pfx/drive_c/users/Public/Documents":
       tags:
         - save
       when:
