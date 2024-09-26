@@ -5,4 +5,4 @@
       tags:
         - save
       when:
-        - os: steam
+        - os: linux
