@@ -1,0 +1,8 @@
+---
+"Non-Steam":
+  files:
+    "<home>/Shortix/**/drive_c/users/Public/Documents":
+      tags:
+        - save
+      when:
+        - os: steam
