@@ -1,0 +1,8 @@
+---
+"Ryujinx":
+  files:
+    "<home>/Emulation/saves/ryujinx/saves":
+      tags:
+        - save
+      when:
+        - os: linux
