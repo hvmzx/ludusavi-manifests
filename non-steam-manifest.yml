@@ -1,7 +1,7 @@
 ---
 "Non-Steam":
   files:
-    "<home>/Shortix/**/drive_c/users/Public/Documents":
+    "<root>/**/pfx/drive_c/users/Public/Documents":
       tags:
         - save
       when:
