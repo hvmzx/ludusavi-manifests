@@ -10,5 +10,8 @@
     "<root>/**/pfx/drive_c/users/steamuser/Appdata":
       tags:
         - save
+    "<root>/**/pfx/drive_c/users/steamuser/Saved Games":
+      tags:
+        - save
       when:
         - os: linux
