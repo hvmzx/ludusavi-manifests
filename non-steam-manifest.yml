@@ -1,7 +1,16 @@
 ---
 "": &template
   files:
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/Public/Documents":
+    "<root>/<storeGameId>/pfx/drive_c/users/Public/Documents":
+      tags:
+        - save
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Documents":
+      tags:
+        - save
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Appdata":
+      tags:
+        - save
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Saved Games":
       tags:
         - save
       when:
