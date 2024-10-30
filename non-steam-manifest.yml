@@ -1,16 +1,16 @@
 ---
-"": &template
+"Non-Steam":
   files:
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/Public/Documents":
+    "<root>/**/pfx/drive_c/users/Public/Documents":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Documents":
+    "<root>/**/pfx/drive_c/users/steamuser/Documents":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Appdata":
+    "<root>/**/pfx/drive_c/users/steamuser/Appdata":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Saved Games":
+    "<root>/**/pfx/drive_c/users/steamuser/Saved Games":
       tags:
         - save
       when:
