@@ -1,0 +1,22 @@
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: ~
+
+name: Update manifests
+
+jobs:
+  recent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-python@v5
+      - name: Python dependencies
+        run: pip install -r requirements.txt
+      - run: python main.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update manifests
+          commit_author: GitHub Actions <actions@github.com>
