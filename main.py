@@ -11,16 +11,16 @@ NON_STEAM_TEMPLATE = """
 ---
 "": &template
   files:
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/Public/Documents":
+    "<root>/<storeGameId>/pfx/drive_c/users/Public/Documents":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Documents":
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Documents":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Appdata":
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Appdata":
       tags:
         - save
-    "<root>/compatdata/<storeGameId>/pfx/drive_c/users/steamuser/Saved Games":
+    "<root>/<storeGameId>/pfx/drive_c/users/steamuser/Saved Games":
       tags:
         - save
       when:
