@@ -3784,7 +3784,6 @@
 "BOOKS": *template
 "BORIS the Mutant Bear with a Gun": *template
 "BOSSGARD": *template
-"BOT-NET": *template
 "BOTOLO": *template
 "BOTS": *template
 "BOTS 4 DEFENSE": *template
@@ -5890,6 +5889,7 @@
 "Bot Tales: The Crashed": *template
 "Bot Vice": *template
 "Bot War": *template
+"Bot-Net": *template
 "Botanica: Earthbound": *template
 "Botanica: Earthbound Collector's Edition": *template
 "Botanica: Into the Unknown": *template
@@ -13669,6 +13669,7 @@
 "Edge of Galaxy": *template
 "Edge of Hearts": *template
 "Edge of Insanity": *template
+"Edge of Memories": *template
 "Edge of Reality Visual Novel": *template
 "Edge of Space": *template
 "Edge of Time: Rise of the Aeus": *template
@@ -20867,6 +20868,7 @@
 "Hoyle Battling Ships and War": *template
 "Hoyle Official Card Games": *template
 "Hoyle Official Casino Games": *template
+"Hozy": *template
 "Hrot": *template
 "Hube: Seeker of Achievements": *template
 "Hubert's Island Adventure: Mouse o' War": *template
@@ -21273,7 +21275,6 @@
 "IN GAME": *template
 "IN-VERT": *template
 "INCANTAMENTUM": *template
-"INFECTIS": *template
 "INFRA": *template
 "INIT.": *template
 "INK": *template
@@ -21695,6 +21696,7 @@
 "Infection Free Zone": *template
 "Infection Rate": *template
 "Infection: Humanity's Last Gasp": *template
+"Infectis": *template
 "Infecto": *template
 "Infectonator 3: Apocalypse": *template
 "Infectonator: Survivors": *template
@@ -21960,6 +21962,7 @@
 "Interplanetary Hunter": *template
 "Interplanetary: Enhanced Edition": *template
 "Interplay Solitaire": *template
+"Interpoint": *template
 "Interregnum-Alpha": *template
 "Interrogation: You Will Be Deceived": *template
 "Intershelter": *template
@@ -29391,6 +29394,7 @@
 "Night Signal": *template
 "Night Sing": *template
 "Night Slashers": *template
+"Night Slashers: Remake": *template
 "Night Swarm": *template
 "Night Trap - 25th Anniversary Edition": *template
 "Night Turns to Day": *template
@@ -29672,6 +29676,7 @@
 "Noctropolis": *template
 "Noctuary": *template
 "Nocturnal": *template
+"Nocturnal 2": *template
 "Nocturnal Hunt": *template
 "Nocturne": *template
 "Nocturne of Steel": *template
@@ -29810,6 +29815,7 @@
 "Nova Blitz": *template
 "Nova Drift": *template
 "Nova Nukers!": *template
+"Nova Roma": *template
 "Nova Strike": *template
 "Nova Wing": *template
 "Nova Wing II": *template
@@ -31891,6 +31897,7 @@
 "Pilferer": *template
 "Pilgrimage": *template
 "Pilgrims": *template
+"Pill After Pill": *template
 "Pill Cosbi": *template
 "Pillage": *template
 "Pillar": *template
@@ -33829,7 +33836,6 @@
 "REDO!": *template
 "REDRIVER 2": *template
 "REDVIIL": *template
-"REFLASER": *template
 "REFUGE": *template
 "REGOLA": *template
 "REKKR: Sunken Land": *template
@@ -34663,6 +34669,7 @@
 "Refight:Burning Engine": *template
 "Refill your Roguelike": *template
 "Refind Self: The Personality Test Game": *template
+"Reflaser": *template
 "RefleX": *template
 "Reflected Ray": *template
 "Reflecting Fate": *template
@@ -35797,7 +35804,6 @@
 "Romby": *template
 "Rome Circus Maximus: Chariot Race VR": *template
 "Rome: Total War": *template
-"Romeo Is A Dead Man": *template
 "Romeo Is a Dead Man": *template
 "Romero's Aftermath": *template
 "Romguns": *template
@@ -37470,6 +37476,7 @@
 "Shantae and the Seven Sirens": *template
 "Shantae: Half-Genie Hero": *template
 "Shantae: Risky's Revenge - Director's Cut": *template
+"ShantyTown": *template
 "Shaolin vs Wutang": *template
 "Shaolin vs Wutang 2": *template
 "Shaoye": *template
@@ -39608,6 +39615,7 @@
 "Speed and Scream": *template
 "SpeedJumper": *template
 "SpeedRunners": *template
+"SpeedRunners 2: King of Speed": *template
 "Speedball (2026)": *template
 "Speedball 2 HD": *template
 "Speedball 2: Tournament": *template
@@ -48700,6 +48708,7 @@
 "Voices of the Void": *template
 "Void": *template
 "Void & Nothingness": *template
+"Void (2019)": *template
 "Void 21": *template
 "Void Bastards": *template
 "Void Breach": *template
@@ -49945,6 +49954,7 @@
 "Windmill Kings / 风车国王": *template
 "Windosill": *template
 "Windowkill": *template
+"Windrose": *template
 "Winds of Change": *template
 "Winds of Trade": *template
 "Windscape": *template
@@ -51476,6 +51486,7 @@
 "九州仙玉 Kyushu jade": *template
 "九州：商旅（Nine Provinces: Caravan）": *template
 "九霄缳神记 GOD SLAYER": *template
+"九霄缳神记 Jiu Xiao": *template
 "书之旅人 Story Walker": *template
 "云游志 The Clouds Travel Notes": *template
 "云聚：失落的魔法 Magic Ganglia": *template
