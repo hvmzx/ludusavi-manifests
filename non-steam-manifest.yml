@@ -15272,6 +15272,8 @@
 "FAN CLUB": *template
 "FANCY!": *template
 "FANTAVISION 202X": *template
+"FAR: Changing Tides": *template
+"FAR: Lone Sails": *template
 "FARIA: Ghosts of the Stream": *template
 "FARIA: Starfall": *template
 "FATE": *template
@@ -15695,8 +15697,6 @@
 "Far Space VR": *template
 "Far from Noise": *template
 "Far-Out": *template
-"Far: Changing Tides": *template
-"Far: Lone Sails": *template
 "FarSky": *template
 "Farabel": *template
 "Faraday Protocol": *template
@@ -43534,6 +43534,7 @@
 "TeraBlaster": *template
 "Teragard": *template
 "Teratini VR": *template
+"Terep2": *template
 "Teria": *template
 "Terminal Conflict": *template
 "Terminal Hacker": *template
